@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lab2_Third_Project</string>
+    <string name="title">Happiness is winning at tic-tac-toe!</string>
+    <string name="strclean">Restart match</string>
+    <string name="no_winner">No one wins yet</string>
+    <string name="X_wins">X wins this match!</string>
+    <string name="O_wins">O wins this match!</string>
+    <string-array name="options">
+        <item>*</item>
+        <item>X</item>
+        <item>O</item>
+    </string-array>
+</resources>
